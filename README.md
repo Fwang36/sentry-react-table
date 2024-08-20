@@ -1,5 +1,7 @@
-`npm install`
+1. `npm install`
 
-`npm run build` to build
+2. put DSN in instrument.js
 
-`npx serve build/` to serve build
+3. `npm run build` to build
+
+4. `npx serve build/` to serve build

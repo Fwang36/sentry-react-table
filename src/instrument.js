@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 
 Sentry.init({
-  dsn: "https://d6a3dfd9ae5bcafba235bd91afa734cb@o1407376.ingest.us.sentry.io/4507778908356608",
+  dsn: "",
   integrations: [
     // See docs for support of different versions of variation of react router
     // https://docs.sentry.io/platforms/javascript/guides/react/configuration/integrations/react-router/
